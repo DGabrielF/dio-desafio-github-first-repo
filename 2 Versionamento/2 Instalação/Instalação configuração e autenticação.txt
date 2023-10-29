@@ -1,0 +1,54 @@
+Instalação
+  Seguir os comando do site https://git-scm.com
+
+Configuração
+  git config (visualizar e definir variaveis de configuração, armazenadas em global, system [sistema operacional] e local [repositório])
+
+  git config --global user.name "{userName}"
+  git config --global user.email "{userEmail}"
+
+  para visualizar batar escrever 'git config --global user.name'
+
+  git config --global init.defaultBranch main <-- padrão utilizado
+
+  git config --global --list apresenta todas as configurações globais
+
+Autenticação
+
+git clone {url do repositório} clona um repositório do git
+
+Criando um token
+  perfil/settings/developer settings/personal access token/personal access tokens (classic)/ generate new token/ generate new token classic
+  nome do token
+  tempo de expiração
+  limites de escopo
+  generate token
+
+  copiar o token (a senha some ao sair do TOKEN)
+  git clone {url do repositório} clona um repositório do git
+  nome do usuario github
+  usar o token como a senha
+
+  salvando o token na maquina
+    git config --global credential.helper
+      máquina compartilhada 'cache'
+      máquina individual 'store'
+
+Autenticação via SSH
+  perfil/settings/Access/SSH and GPG keys
+
+  verificar se há chave
+    ls -al ~/.ssh
+  
+  gerando um par de chaves
+    ssh-keygen -t ed25519 -C "your_email@example.com"
+    confirmar o local para salvar (enter salva no padrão)
+  
+  armazenando a chave privada de maneira segura
+    eval "$(ssh-agent -s)
+    ssh-add ~/.ssh/id_ed25519
+    adicionar uma chave no github Title key type e conteudo da chave publica
+    cat id_ed25519 <- chave publica gerada no passo anterior
+    
+
+

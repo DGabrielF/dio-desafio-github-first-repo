@@ -1,0 +1,17 @@
+O que é o versionamento de código?
+  Gerar uma versão a cada atualização
+  Organizando cronologicamente
+  Discriminando as alterações
+  Referenciando quem realizou a alteração
+  Otimizando o espaço utilizado para o armazenamento
+
+  Sistemas de Controle de Verção (VCS Version Controler System)
+    Centralizados (CVCS)
+      Um servidor que armazena as versões
+      Risco, perda de dados por backup ineficientes
+      Risco, servidor fora do ar, não armazenar mudanças
+      exemplos: CVS e Subversion
+    Distribuídos (DVCS)
+      Alem de um servidor, existe um repositório local
+      Os clones de repositório servem como back ups
+      exemplos: Git, Mercurial

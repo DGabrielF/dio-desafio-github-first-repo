@@ -1,0 +1,10 @@
+Enviando arquivos para o repositório remoto
+  Após as alterações realizadas serem salvas localmente
+  Conectando com o github
+    git remote add origin urlDoGitHub
+  
+  Enviar alterações do repo local para o repo remoto
+    git branch -M main (alterar o nome da branch principal para o padrão que normalmente é utilizado "main" ao invés de "master")
+    git push -u origin main
+      -u upstream define como branch principal
+    

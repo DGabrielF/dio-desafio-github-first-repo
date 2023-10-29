@@ -1,0 +1,14 @@
+Transformar um diretório local, que não está no sob controle de versão, em um repositório Git
+  Criando o repositório local
+    criar uma pasta para transformar em um repositório
+    cd nomeDaPasta
+    git init (dentro da pasta) para criar um repositório local
+  
+  Adicionando ao repositório remoto
+    git remote add origin urlRepoGitHub
+
+Clonando um repositório Git existente
+  git clone urlRepoGitHub nomeDaPasta(opcional)
+
+Clonando apenas uma branch
+  git clone URL --branch nomeDaBranch --single-branch

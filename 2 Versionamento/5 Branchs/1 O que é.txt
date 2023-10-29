@@ -1,0 +1,22 @@
+O que é uma branch
+  uma ramificação que funciona como um universo paralelo para fazer testes (possível acompanhar pelo git log)
+  a nova branch aponta para o commit atual da que foi criada
+
+  criando uma nova branch
+    git checkout -b teste
+      -b cria uma branch não é necessário para apenas mudar
+
+    git commit branch -v
+      apresenta o ultimo commit de cada branch
+    
+    para mesclar as atualizações de uma branch secundária para a principal (ou apenas de uma branch para outra)
+      certifique se de estar na branch que irá receber as alterações
+      git merge branchSecundária
+
+    git branch
+      lista as branches
+    
+    git branch -d nomeDaBranch
+      -d deleta uma branch
+    
+    pesquisar pelas convenções

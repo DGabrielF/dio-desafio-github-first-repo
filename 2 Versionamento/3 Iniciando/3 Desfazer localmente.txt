@@ -1,0 +1,22 @@
+Após dar git init em uma pasta errada
+  rm -rf .git
+
+Após realizar uma modificação indezejada, retornar ao último status obs.: desfaz todas as alterações
+  git restore nomeDoArquivo
+
+Como alterar a mensagem de um commit
+  git commit --amend -m "novo comentário"
+
+Como desfazer um commit
+  git reset --soft hashDoCommit 
+    pega todos os arquivos adicionados posteriormente ao hash e traz de volta para a área de preparação (já fez o add.)
+
+  git reset --mixed hashDoCommit
+    é o comportamento padrão, então não é necessário escrever
+    pega todos os arquivos adicionados posteriormente ao hash e traz de volta para a árvore de trabalho (sem o add.)
+
+  git reser --hard hashDoCommit
+    destrói tudo que já foi feito posteriormente ao hash e remove.
+
+  devem ser feitos antes de enviar para o repositório remoto para evitar conflitos
+  

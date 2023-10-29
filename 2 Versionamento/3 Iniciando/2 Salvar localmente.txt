@@ -1,0 +1,13 @@
+git status possibilita ver o status das alterações
+  untracked arquivos ainda não reconhecidos pelo git
+  modified arquivos que possuem alguma alteração
+
+  git add (adiciona para a area de preparação) o . adiciona tudo
+
+  git commit -m "descrição do commit"
+
+  git log apresenta as informações dos commits
+
+  .gitignore ignora arquivos na consideração da área de preparação
+
+  .gitkeep forma de reconhecer um diretório vazio

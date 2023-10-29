@@ -1,0 +1,29 @@
+Comandos úteis
+git pull = git fetch + git merge
+
+baixar sem mesclar
+  git fetch
+ver diferenças
+  git diff main origin/main
+  git merge origin/main (caso esteja tudo ok)
+clonas apenas uma branch
+  git cole urlGitHub --branch nomeDaBranch --single-branch  
+    tem a principal quando o nome é suprimido
+criar uma nova branch sem carregar a área de preparação, arquivando as alterações
+  git stash
+    arquiva as alterações
+  git stash list
+    gera uma lista das alterações arquivadas
+  git branch -b teste-2
+    manipula etc
+  git branc teste
+
+trazendo as alterações arquivadas de volta
+  git stash preparação
+    remove a ultima alteração da lista
+  git stash apply
+    para manter a modificação para uso posterior
+
+  conventional commits documentação
+
+  https://github.com/elidianaandrade/dio-curso-git-github

@@ -1,0 +1,18 @@
+acessar https://git-scm.com
+
+git clone 
+  clona o repositório do servidor para um repositório local local
+
+git commit
+  grava alterações no repositório local
+  antes de enviar as alterações é interessante pegar a versão mais atual do servidor
+
+  git pull
+    busca as alterações do repositório remoto para o local e mescla com os dados atuais
+  
+  git push
+    envia todas as alterações para o repositório remoto
+
+para atualizar sua versão do código 
+
+git pull

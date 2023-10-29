@@ -1,0 +1,3 @@
+Baixando alterações do repo remoto
+
+git pull
