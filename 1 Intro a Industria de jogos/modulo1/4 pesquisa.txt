@@ -1,0 +1,23 @@
+Pesquisa de cargos
+  Como pesquisar por vagas?
+    Lista de estúdios associados à Abragames
+      www.abragames.org
+      Associados Afiliados Parceiros
+      Entrar nos sites e procurar vagas (remoto/presencial)
+    Canal The Gamer Inside Brasil (seguindo no linkedin)
+
+Por onde começar?
+  Estudar:
+    Versionamento: GitHub
+    Modelagem 3D: Blender
+    Game Engines: Unity, Unreal, Godot
+    Programação: Programação de Jogos*
+
+  Portifólio:
+    Github: programadores
+    ArtStation:  artistas
+    Itch.io: jogos finalizados
+    Sites próprios: portifólios proficionais
+    Notion: portifólios flexíveis
+
+    

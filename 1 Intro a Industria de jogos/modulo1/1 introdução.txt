@@ -1,0 +1,30 @@
+L - lógica
+E - especialistas para mentoria
+A - aprendizado
+R - reconhecimento (certificado)
+N - notoriedade
+
+H - humanidade e empatia
+E - experiencias compartilhadas
+R - rooms (interações em salas)
+O - Oportunidade (networking ao longo do processo)
+
+A - aquisição de competências
+C - construção de perfil
+T - transição (juntar talentos com empresas)
+
+Urgente e Importante: Tarefas que exigem sua atenção imediata.
+Não Urgente e Importante: Atividades que você precisa programar para fazer.
+Urgente e Não Importante: Distrações que podem ser delegadas a outros.
+Não Urgente e Não Importante: Tarefas que você pode considerar eliminar.
+
+Fazer um cronograma
+
+Sobre o expert
+  iniciei na programação modificando um servidor de tibia
+  vagas de emprego na Patosaur
+  LinkedIn @RafaSkoberg
+  Requisitos:
+    gostar de jogos (ok)
+    gostar de estudar (ok)
+    gostar de ingles (ok)

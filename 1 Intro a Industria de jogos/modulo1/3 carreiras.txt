@@ -1,0 +1,47 @@
+Possíveis carreiras
+  Programação (35% do trabalho)
+    Definição: criação das mecanicas do jogo.
+    Linguagens de programação:
+      unity c#
+      unreal c++
+      (js, java, lua...)
+    Gameplay: Desenvolver as mecânicas do jogo e todos os eventos, cineticas, etc.
+    AI: Comportamentos dos NPC, movimentações, ações, etc.
+    Network: Comunicação entre jogadores, servidores.
+    Ferramentas: Converter dados de um programa para outro (excel para engine, por exemplo)
+    GFT/Shaders: Efeitos visuais e sombras (arte gráfica)
+    
+  Arte Gráfica (30% do trabalho) <- começar a buscar empregos, tem muito a ver comigo
+    Definição: responsável pelo desenho do jogo.
+    Tech Art: programador com jeito pra arte ou vice e versa.
+    Arte 2D: 
+    Arte 3D:
+    Animação: personagens itens objetos de mundo.
+    Arte Conceitual: não necessariamente vão para o jogo.
+    UI/UX: user interface / user experience
+
+  Game Design (10% do trabalho) <- começar a buscar empregos
+    Definição: responsável por desenvolver as experiencias visuais.
+    Prototipagem: fazer um projeto ruim, com a proposta para ser avaliada pelo resto da equipe
+    Arquitetura dos Sistemas: definir o comportamento do jogo com a interação do usuário, todos os "E ses"
+    Idealização do jogo: proposta do jogo
+    Balanceamento: fazer com que o jogo fique equilibrado para suavizar a UX e não deixar chato
+    UX: definir os sentimentos que o jogador deve sentir ao passar pelos momentos do jogo (medo, atenção, tensão, relaxamento, preparar o terreno para colocar a mensagem)
+    Level Design: arte de criar os cenários onde o jogador passara
+
+  Audio Design (10% do trabalho)
+    Definição: responsável por desenvolver as experiencias auditivas.
+    Efeitos sonoros: som dos eventos
+    Trilhas sonoras: musicas tema
+    Programação de áudio: criar sons usando programação
+
+  Narrativa (7% do trabalho)
+    Definição: responsável por desenvolver a mensagem que deve ser passada ao jogador
+
+  Tester (QA)
+    Definição: Avaliação da qualidade do produto criado
+
+  Produção (8% do trabalho)
+    Definição: 5H2W planejamento de prazos e etc
+
+  Marketing

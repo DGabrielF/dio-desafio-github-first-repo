@@ -1,0 +1,9 @@
+Elementos básicos de um jogo
+  Páginas de interação
+  Criaturas
+  Itens
+  Cenário
+  Desafios
+  Balanceamento
+  Mensagem
+  forma de apresentação

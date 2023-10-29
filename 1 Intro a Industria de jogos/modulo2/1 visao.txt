@@ -1,0 +1,25 @@
+Visão geral sobre o processo
+  Etapas do desenvolvimento
+    1. Idealização
+      Anotar a ideia
+      Explicar a ideia
+      Imaginar as mecânicas
+      Objetivar
+    2. Protótipo
+      Testar ideias
+      sem preocupação com estetica do códico, arte ou audio
+      a ideia é não gastar tempo, mas ainda assim dá pra testar a ideia
+      Se tiver bom aí você pode jogar tudo fora e partir para o projeto
+    3. Fatia Vertical (vertical Slice)
+      fazer um pedaço do jogo, já bem feito, mas ainda assim incompleto focando no que é mais importante no jogo
+    4. Início da Produção
+      Começar do zero de novo (muito ruim organizar o que foi feito pra ser mal feito)
+      particulas, efeitos visuais e sonoros, cenários
+    5. Alpha "Feature Complete"
+      todas as funcionalidades prontas, mas não precisa estar com a biblioteca completa (sem conteúdo)
+    6. Beta "Content Complete"
+      adicionar todo o conteúdo (itens, criaturas, classes) onde economiza-se tempo quando necessário
+    7. Versão Final
+      ajeitar a estetica do jogo, tradução, transições
+    8. Lançamento
+      integração com a plataforma de lançamento

@@ -1,0 +1,3 @@
+O que é Game Design?
+  Construção de todas as etapas citadas
+  fazendo com que seja possível testar as mecânicas e a ideia

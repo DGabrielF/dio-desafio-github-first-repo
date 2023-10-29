@@ -1,0 +1,10 @@
+Industria de jogos
+  Abra Games
+  Engines:
+    #1 unity
+    #2 Unreal
+    #3 Godot
+  Eventos:
+    Big Festival são paulo bigfestival.com.br B2B
+    Brasil Game Show são paulo brasilgameshow.com.br B2C
+    SBGames sbgames.org
